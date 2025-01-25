@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  this is dev branch file
  new data added 
+=======
+ this file is new for dev env
+>>>>>>> dev
